@@ -5,6 +5,7 @@ public class Ebay extends Company {
 		super.address();
 		
 		System.out.println("Function call from class Ebay");
+System.out.println("Function call from class Ebay");
 	}
 
 }
