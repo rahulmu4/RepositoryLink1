@@ -1,0 +1,17 @@
+public class MainCompanyBlock extends Ebay{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Hello Sairha");
+		
+		Company comp1 = new Company();
+		Company comp2 = new Ebay();
+		
+		comp1.address();
+		comp2.address();
+		
+
+	}
+
+}
