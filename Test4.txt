@@ -9,6 +9,8 @@ public class CallDesktopApplication {
 		try{
 		Runtime.getRuntime().exec("mspaint");
 		}catch(IOException e){}
+
+		line 1;
 	}
 
 }
